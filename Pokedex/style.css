@@ -1,0 +1,14 @@
+#list{
+    width: 600px; 
+    height: auto; 
+    display: inline-block; 
+}
+#dex{
+    width: 150px; 
+    height: 500px; 
+    border: 20px solid red; 
+    display: inline-block; 
+    vertical-align: top; 
+    padding: 20px; 
+}
+
